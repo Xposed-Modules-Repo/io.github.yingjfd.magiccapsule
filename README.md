@@ -19,7 +19,7 @@
 
 ## 下载
 
-本目录提供构建好的安装包：`MagicCapsule-v1.0.0.apk`
+见 [Releases](https://github.com/Xposed-Modules-Repo/io.github.yingjfd.magiccapsule/releases) 页面的 `MagicCapsule-v1.0.0.apk`。
 
 ## 作用域
 
