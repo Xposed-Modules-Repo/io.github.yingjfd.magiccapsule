@@ -36,7 +36,9 @@
 ## 使用方法
 
 1. 安装 APK，在 LSPosed 管理器中**启用模块**（作用域会自动带上 `com.android.systemui`）
-2. **软重启 SystemUI**（无需重启手机）：
+2. **软重启 SystemUI**（无需重启手机），两种方式任选：
+   - 设置页底部的 **「重启系统界面（SystemUI）」** 按钮，点一下即可（需要 root，会二次确认）；
+   - 或命令行：
    ```bash
    adb shell su -c 'killall com.android.systemui'
    ```
